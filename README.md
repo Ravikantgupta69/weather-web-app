@@ -1,2 +1,2 @@
-# weather-web-app
-weather web app using weather api.
+# weather-website
+weather website using weather api.
